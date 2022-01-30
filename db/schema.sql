@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS inventory_db;
+DROP DATABASE IF EXISTS deepblue_db;
 
-CREATE DATABASE inventory_db;
+CREATE DATABASE deepblue_db;
