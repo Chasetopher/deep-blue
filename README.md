@@ -41,6 +41,6 @@
   You can test this project by following the install instructions, creating a user, running npm starts, and either testing the routes via insomnia or postman, or by triggering the applicaton by running localhost:3001
   ## Questions
   For any questions, please reach out to me at:<br/>
-  Github: [Chasetopher](https://github.com/kamm8899/README-Generator) <br/>
+  Github: [Chasetopher](https://github.com/Chasetopher) <br/>
   # License 
   This repo is using: [ISC](https://opensource.org/licenses/ISC)
